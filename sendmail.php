@@ -29,7 +29,7 @@ exit();
 </head>
 <body bgcolor="#ffffcc">
 <h2 align="center">
-Fake Email Prank Script By Srikanth
+Fake Email Prank Script By Mr Robot
 </h2>
 <h3 align="center">
 Please do not misuse this script. Use it only for having FUN.
